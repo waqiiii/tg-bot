@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "storied-algebra-467305-a9",
+  "private_key_id": "3292792cc59c6b4fe486f81199b19f0323732229",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdpL8wpk9s/uVk\n6EPrmCnVwQWSStohVfxvVQC1jcx2y9kstgY/BztIN588qdTTHwhunHZhcXOXJ5bj\nDuq4MEv9DWnJllZXfM58XeeDRXf5Ku3ZAmOaV42pAOglSzBenPVfFrRFxSarrL40\n6UZBm3hOFULx2u48vzabpiZEPHvQ2Ku1Je8RMEhFzMx1FUjYBV7lg/JCO9fXFcuu\nYpBG5HPwvFq/AGVOHuP/vDY7f83z40VmrDpLVC2efJNxIbH37qIgM5P9u749EfyS\nMpjsXLk66I/mzOmqGCyqRCAK7cgST8IjUMwQYF3rTCGsYYuH230XWMZIUQIbh8mR\nZgjDNYFrAgMBAAECggEAF/EDoqEsWNqLHo8aRcNzgr6YDU6Jk7/tMHzO7U2VBaC3\nuPqBNTi2QMhFVUZbvLcQRZvKtnQ3UgoO5JWdaWpKIwUFECdC9K4Aw0gEydYXWLJi\n69CJasgZ/2SfhDvEIfbevbfpntRmJ3WAPEiVyWDI/4I7b32Vw2O85dZDhuu+TMzk\nn4rVpMMGD9frhIbhgyY6nqHQibRuqCifn86FstouZ0pZSDYDuO29QtvoFj5g4dlk\nKUZgRhZoHLnSdQlMCnqO5BVB5PGU6dx+lEIwK12D6zjuFaRhHBESnnKx8KBfzxvx\npfFIfUbi1FOVcmCi6B8NIuO2sBxZQTKxMN5KoVET9QKBgQD4KynhZd/XKy0tKvKC\n77yNiI62lbXm7Fg90PUFgxgA5N+5AJRTAjjKCHigFyk9nHnpUierJv4TQN6JaWVl\nCMe2WvEEVMtUawU5sWBP/qSy2EatNT8mGs4aYa5KLlHsYD8ECpBrnkH9w13G3yo8\nHxGZnU0cH9qstPA19n/xITrcnQKBgQDko0zBVr4GxGByBzcBKhp6XH1+Ou6YHFnp\nDRQkaudTscvR1nWe6o0IUKbJvxEDSyw4fYOd/nSnLW7psziCfKDE32sNR+8oq33w\nlyemIRxuh9MrfGiIFiUCn9uoNo69VO6SYWFVDWw8TJvk+UVd+sD7uc4uACn1FJPc\npR8Q+ZTDpwKBgQD4G6c+SmyUoP0EiEh2cZoP4jPUBS8cFLRP8QXWIe8wjaHCQvsH\nVlRSYE/AtgcsKrGTe+he65fexd72gGG3tiR8gsUtcFzsJCbQPC6vK0Wb7DAU4QQm\nY2wk4f2u+ko7SSoXLzyd61XMj7LErb565xDghGxgLtSgEDGLscrN10wS3QKBgQDL\n+71xCNjE5NM/KJy0V0IERRxZUG6qGzFEMTz1OMNl8kxrzDBoNc7Zykrj16lwDNNJ\nGwIgJXMh6/D2Y8VY9aPhwYqa8MC4wje8PL9NAmGBY4DNXVNNhqRCcSjiLLqwxGON\nCYBzB2S3b4nugU6YCC3A6AbBF7hXRaKdylurI2DMJQKBgQCVCk5wFkDW8IEJzZSb\nT6AoZKz8yky9cy6Uiy2kD/MVPkcCrfHMuBWdNK5mov0i5e0nBVK0YENHOxU0Vu3L\nt9JMVjvOL4S5CnK7byx9BirpNC678RoGK1YtDzfvtewxTFo2TkHKmeFncmWSX5HE\n8DmmVAccvjkNVdOi1fe98FZddw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uzbankinfobot@storied-algebra-467305-a9.iam.gserviceaccount.com",
+  "client_id": "112334586110472109704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uzbankinfobot%40storied-algebra-467305-a9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
