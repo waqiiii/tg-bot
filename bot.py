@@ -3,11 +3,14 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
+import json
+import os
 
+# Используем credentials напрямую
+creds = ServiceAccountCredentials.from_json_keyfile_dict(json_key, scope)
 # === Google Sheets настройки ===
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name(
-    r"/etc/secrets/googlekey.json", scope)
+json_key = json.loads(os.environ['GOOGLE_CREDS_JSON'])
 client = gspread.authorize(creds)
 
 # ✅ Открытие таблицы по имени
