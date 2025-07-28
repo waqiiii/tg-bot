@@ -7,7 +7,7 @@ from datetime import datetime
 # === Google Sheets настройки ===
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name(
-    r"/etc/secrets/google_key.json", scope)
+    r"/etc/secrets/googlekey.json", scope)
 client = gspread.authorize(creds)
 
 # ✅ Открытие таблицы по имени
